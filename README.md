@@ -24,3 +24,6 @@ Arduino reads from ground moisture detectors hopw wet the ground is. Then those 
 - <img title="a title" alt="Electronics" src="/images/3.jpg">
 - <img title="a title" alt="Screen" src="/images/2.jpg">
 - <img title="a title" alt="Plant" src="/images/1.jpg">
+- <img title="a title" alt="pcb 3d" src="/images/pcb3d.png">
+- <img title="a title" alt="pcb 2d" src="/images/pcb2d.png">
+- <img title="a title" alt="pcb 2d" src="/images/pcb2d1.png">
