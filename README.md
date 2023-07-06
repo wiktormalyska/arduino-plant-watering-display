@@ -1,4 +1,4 @@
-# Arduino Pland Watering Display
+# Arduino Plant Watering Display
 ## What has beed used:
 - [1x Arduino Uno R4 WiFi](https://botland.com.pl/arduino-seria-podstawowa-oryginalne-plytki/23292-arduino-uno-r4-wifi-abx00087-7630049204591.html)
 - [1x Bread Board](https://botland.com.pl/plytki-stykowe/19943-plytka-stykowa-justpi-830-otworow-5904422328610.html)
