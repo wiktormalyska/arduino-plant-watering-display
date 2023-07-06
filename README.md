@@ -18,6 +18,7 @@ Arduino reads from ground moisture detectors hopw wet the ground is. Then those 
 - exchanging arduino to smaller one
 - IoT management
 - Ability to set your own amount of plants
+- Some kindoff pcb
 
 ## Photos
 - <img title="a title" alt="Electronics" src="/images/3.jpg">
